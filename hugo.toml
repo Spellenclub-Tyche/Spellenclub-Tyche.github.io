@@ -1,16 +1,20 @@
 baseURL = 'https://www.spellenclubtyche.nl/'
 languageCode = 'nl'
-defaultContentLanguage = 'nl'
+defaultContentLanguage = 'nederlands'
 title = 'Spellenclub Tyche'
 theme = 'ananke'
 
 [languages]
-[languages.nl]
+[languages.nederlands]
+languageName = 'Nederlands'
+languageCode = 'nl'
 title = "Spellenclub Tyche"
 weight = 1
 contentDir = "content/nl"
 # languageDirection = 'rtl' for Right-To-Left languages
-[languages.en]
+[languages.english]
+languageName = 'English'
+languageCode = 'en'
 title = "Tyche Board Game Club"
 weight = 2
 contentDir = "content/en"
