@@ -1,5 +1,6 @@
 baseURL = 'https://www.spellenclubtyche.nl/'
-languageCode = 'en-us'
+languageCode = 'nl'
+defaultContentLanguage = 'nl'
 title = 'Spellenclub Tyche'
 theme = 'ananke'
 
