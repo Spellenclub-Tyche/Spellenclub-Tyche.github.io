@@ -1,0 +1,5 @@
+AuthGroupFile /dev/null
+AuthName "Under development"
+AuthType Basic
+AuthUserFile /home/spellenclu/domains/spellenclubtyche.nl/.htpasswd/public_html/ethiekwiki/.htpasswd
+require valid-user
