@@ -1,5 +1,5 @@
 ---
-title: "Welkom bij Spelenclub Tyche"
+title: "Welkom bij Spellenclub Tyche"
 
 description: "Wij spelen elke maandagavond van 19:00 tot 22:45 in het Herman Wesselink College, Startbaan 3 in Amstelveen"
 # 1. To ensure Netlify triggers a build on our exampleSite instance, we need to change a file in the exampleSite directory.
